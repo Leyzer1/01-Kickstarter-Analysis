@@ -44,3 +44,7 @@ What are some limitations of this dataset?
 
 What are some other possible tables and/or graphs that we could create? 
 - Other ideas for analyzing this data would be comparing the campaign outcomes by the countries. We could also create a table that converts the currencies to a single currency to determine which campaign had the most funding.
+
+
+![image](https://user-images.githubusercontent.com/95899763/181157178-3d7db1a3-420c-4a55-abb5-cf9240672a3b.png)
+
