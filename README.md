@@ -48,3 +48,5 @@ What are some other possible tables and/or graphs that we could create?
 
 ![image](https://user-images.githubusercontent.com/95899763/181157178-3d7db1a3-420c-4a55-abb5-cf9240672a3b.png)
 
+![image](https://user-images.githubusercontent.com/95899763/181157268-efa31ace-b1db-4f82-bdfa-1269d8101b9b.png)
+
